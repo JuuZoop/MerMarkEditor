@@ -461,6 +461,8 @@ pnpm tauri dev
 pnpm tauri build
 ```
 
+For detailed build, packaging, signing, and troubleshooting instructions, see [docs/BUILD.md](docs/BUILD.md).
+
 ### Running Tests
 
 ```bash
